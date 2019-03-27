@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/shoaibeams/client-side-auth.git
+[submodule "server"]
+	path = server-
+	url = https://github.com/shoaibeams/server-side-auth.git
